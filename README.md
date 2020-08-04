@@ -12,5 +12,5 @@ fast.
 
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-IsraelMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelmarquesmartins/)](https://www.linkedin.com/in/israelmarquesmartins/) 
 | 
-[![Email Badge](https://img.shields.io/badge/-israel_batista.am@hotmnail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:israel_batista.am@hotmnail.com)](mailto:israel_batista.am@hotmnail.com)
+[![Email Badge](https://img.shields.io/badge/-israel_batista.am@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:israel_batista.am@hotmail.com)](mailto:israel_batista.am@hotmail.com)
 
