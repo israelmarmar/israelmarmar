@@ -1,5 +1,5 @@
 # Israel Martins
-## Hello everybory 👋
+## Hello everybody! 👋
 I love new tecnologies
 I'm Full-stack/mobile developer
 
