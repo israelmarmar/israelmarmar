@@ -1,16 +1,17 @@
-### Hi there 👋
+# Thiago Marinho
 
-<!--
-**israelmarmar/israelmarmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everybory 👋
+I love new tecnologies
+I'm Full-stack/mobile developer
 
-Here are some ideas to get you started:
+After working as technical support in the IT area, I acquired
+internship experience in public office, with experience
+in full-stack development in React and NodeJS. I work
+currently as a mobile developer in Flutter.
+I'm versatile, focused on new and relevant technologies, I learn
+fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-IsraelMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelmarquesmartins/)](https://www.linkedin.com/in/israelmarquesmartins/) 
+| 
+[![Email Badge](https://img.shields.io/badge/-israel_batista.am@hotmnail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:israel_batista.am@hotmnail.com)](mailto:israel_batista.am@hotmnail.com)
+
