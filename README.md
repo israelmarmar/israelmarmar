@@ -4,9 +4,10 @@ I love new tecnologies
 I'm Full-stack/mobile developer
 
 After working as technical support in the IT area, I acquired
-internship experience in public office, with experience
-in full-stack development in React and NodeJS. I work
-currently as a mobile developer in Flutter.
+internship experience in public positions, with experience
+in full-stack development in React and NodeJS. I worked
+as a mobile developer with Flutter. I currently work as a Front-End and Mobile developer with React / NextJS / React Native.
+
 I'm versatile, focused on new and relevant technologies, I learn
 fast.
 
