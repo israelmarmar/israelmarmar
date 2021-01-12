@@ -1,6 +1,6 @@
 # Israel Martins
 ## Hello everybody! 👋
-I love new tecnologies
+I love new technologies
 I'm Full-stack/mobile developer
 
 After working as technical support in the IT area, I acquired
